@@ -3,9 +3,13 @@
 
 .clava-wrapper {
 	background-color: #0D0630;
-	color: #000000;
+	color: #0D0630;
 }
 
 .bg-accent.pb-2.px-2, .bg-accent {
+	background-color: #6C36E0;
+}
+
+button.bg-primary-900 {
 	background-color: #6C36E0;
 }
