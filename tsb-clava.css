@@ -14,7 +14,7 @@ button.bg-primary-900 {
 	background-color: #6C36E0;
 }
 
-button.bg-primary-900: hover {
+button.bg-primary-900:hover {
 	background-color: #ffffff;
 	border-color: #6C36E0;
 	color: #6C36E0;
