@@ -10,11 +10,11 @@
 	background-color: #6C36E0;
 }
 
-button.bg-primary-900 {
+.clava-btn {
 	background-color: #6C36E0;
 }
 
-.hover\:button.bg-primary-700:hover {
+.clava-btn:hover {
 	background-color: #ffffff;
 	border-color: #6C36E0;
 	color: #6C36E0;
